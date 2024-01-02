@@ -17,6 +17,7 @@ const Footer = () => {
         paddingBottom: 7,
       }}
     >
+      {/* test comment */}
       {/* Contact Us Section */}
       <Box
         sx={{
